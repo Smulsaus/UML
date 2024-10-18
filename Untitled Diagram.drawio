@@ -7,10 +7,10 @@
         <mxCell id="WlLkxpCcCO6lrYCXsfD7-1" value="START" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="90" width="470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WlLkxpCcCO6lrYCXsfD7-2" value="Invoer: Vraag een getal groter dan 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WlLkxpCcCO6lrYCXsfD7-2" value="Vul A in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="150" width="470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WlLkxpCcCO6lrYCXsfD7-3" value="Is het getal &amp;gt; 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WlLkxpCcCO6lrYCXsfD7-3" value="A &amp;gt; 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="210" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WlLkxpCcCO6lrYCXsfD7-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WlLkxpCcCO6lrYCXsfD7-3" target="WlLkxpCcCO6lrYCXsfD7-3">
@@ -40,7 +40,7 @@
         <mxCell id="WlLkxpCcCO6lrYCXsfD7-19" value="Controleer of het een priemgetel is" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="390" width="470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WlLkxpCcCO6lrYCXsfD7-20" value="Is het een priemgetal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WlLkxpCcCO6lrYCXsfD7-20" value="A = Priemgetal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="450" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WlLkxpCcCO6lrYCXsfD7-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WlLkxpCcCO6lrYCXsfD7-20" target="WlLkxpCcCO6lrYCXsfD7-20">
